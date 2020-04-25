@@ -1,0 +1,42 @@
+h2  {
+    text-align: center;
+    margin-top: 230px;
+    font-size: 30px;
+}
+
+
+h2 span:nth-child(1) {
+    color: #5873b1;
+  }
+
+h2 span:nth-child(2) {
+    color: #58b16b;
+}
+
+h2 span:nth-child(3) {
+    color: #a55b1f;
+}
+
+h2 span:nth-child(4) {
+    color: #b15867;
+}
+
+h2 span:nth-child(5) {
+    color: #1f7a86;
+}
+
+.search-bar{
+    width : 500px;
+}
+
+p  {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+ol {
+    display: table;
+    margin-left: auto; 
+    margin-right: auto;
+}
